@@ -8,3 +8,5 @@ master commit 3
 ===============
 feat/test commit 1
 ===============
+feat/test commit 2
+===============
